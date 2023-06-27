@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.number {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.even {
+  background-color: red;
+}

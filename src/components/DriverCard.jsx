@@ -4,6 +4,9 @@ const DriverCard = ({ name, rating, img, car }) => {
   let turn = rating.toString();
 
   console.log(rating);
+  console.log(rating.type);
+
+  console.log(turn.type);
 
   return (
     <div
